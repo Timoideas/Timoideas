@@ -1,3 +1,2 @@
-### Welcome 👋
-- 🌱 I’m currently learning Next, React, React Native, Node, GraphQl, Go.
-- 💬😄⚡
+### Bienvenido 👋
+Aqui subo mis proyectos listos para despliegue 😄⚡
